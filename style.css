@@ -14,7 +14,7 @@ body, h1, h2, h3, h4, p, a {
   .header {
     height: 100vh;
     background-color: #eee;
-    background-image: url(https://pictures.s3.yandex.net/frontend-developer/free-course/cover.jpg);
+    background-image: url(https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80);
     background-size: cover;
     background-position: center;
     text-align: center;
