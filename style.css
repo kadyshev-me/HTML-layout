@@ -9,6 +9,7 @@ body, h1, h2, h3, h4, p, a {
   }
   body {
     font-family: 'Helvetica', 'Arial', sans-serif;
+    background-color: rgb(230, 230, 230);
   }
   
   .header {
@@ -46,7 +47,8 @@ body, h1, h2, h3, h4, p, a {
     margin-bottom: 60px;
     padding: 45px 45px 70px;
     display: inline-block;
-    box-shadow: 4px 4px 5px rgba(250, 50, 50, .4);
+    background-color:#eee;
+    box-shadow: 4px 4px 5px rgba(59, 94, 184, 0.803);
   
   }
   .no-right-margin {
